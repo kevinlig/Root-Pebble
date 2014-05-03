@@ -1,0 +1,23 @@
+{
+  "uuid": "0d6c0556-8695-43d6-9d56-d0ec4e4b448d",
+  "shortName": "Public Safety",
+  "longName": "Public Safety",
+  "companyName": "Team Together",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_REFRESH",
+        "file": "images/action_icon_refresh.png"
+      }
+    ]
+  }
+}
